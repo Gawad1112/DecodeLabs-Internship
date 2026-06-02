@@ -76,7 +76,7 @@ Make sure Python is installed on your device.
 Run the following command:
 
 ```bash
-python password_strength_checker.py
+python Task1-Mohamed Abdelgawad Omar.py
 ```
 
 If your file has a different name, use:
@@ -194,7 +194,7 @@ Make sure Python is installed on your device.
 Run the following command:
 
 ```bash
-python task2_caesar_cipher_project.py
+python task2_encryption.py
 ```
 
 ---
@@ -258,8 +258,8 @@ These two tasks help build the foundation for understanding real-world cybersecu
 ```text
 DecodeLabs-CyberSecurity-Tasks/
 │
-├── password_strength_checker.py
-├── task2_caesar_cipher_project.py
+├── Task1-Mohamed Abdelgawad Omar.py
+├── task2_encryption.py
 └── README.md
 ```
 
